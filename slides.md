@@ -40,7 +40,7 @@ micah.saxton@tufts.edu
 * Is the online resource objective, presenting both sides of an issue?
 
 #### Credibility
-* Does the website document its claims? Does it accurately portray what its subject matter?
+* Does the website document its claims? Does it accurately portray its subject matter?
 
 
 #### Putting it into practice
