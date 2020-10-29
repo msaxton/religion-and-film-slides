@@ -3,7 +3,7 @@
 
 ### Agenda
 * Introduction
-* Strategies for finding film reviews and other sources on religion and film
+* Strategies for finding film reviews
 * Evaluating web sources
 * Putting it into practice
 
@@ -16,7 +16,7 @@
 micah.saxton@tufts.edu
 
 
-### Strategies for finding film reviews and academic literature on religion and film
+### Strategies for finding film reviews
 
 #### Use "subject terms" to identify film reviews
 * [Atla Religion Database](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=ATLAReligion)
