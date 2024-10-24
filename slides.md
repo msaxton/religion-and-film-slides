@@ -42,6 +42,7 @@ micah.saxton@tufts.edu
 #### Credibility
 * Does the website document its claims? Does it accurately portray its subject matter?
 
+
 ### Strategies for finding academic sources on religion and film
 
 1. Begin your research with reference sources
@@ -49,7 +50,6 @@ micah.saxton@tufts.edu
 2. Select an appropriate database
 
 3. Combine keyword and subject term searching
-
 
 #### Putting it into practice
 * Using resources from the course guide, find relevant academic discussions of religion and film relevant to your project.
