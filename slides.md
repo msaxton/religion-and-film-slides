@@ -4,14 +4,11 @@
 ### Agenda
 * Introduction
 * Strategies for finding film reviews
-* Evaluating web sources
-* Putting it into practice
+* Strategies for finding academic sources on religion and film
 
 
 ### Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
-<br>
-<a href = "https://go.tufts.edu/saxton" target="_blank">go.tufts.edu/saxton</a>
 <br>
 micah.saxton@tufts.edu
 
@@ -30,6 +27,9 @@ micah.saxton@tufts.edu
 * [Roger Ebert Reviews](http://www.rogerebert.com/reviews)
 * [The New Yorker](https://login.ezproxy.library.tufts.edu/login?url=http://www.newyorker.com/archive)
 
+#### Putting it into practice
+* Using the strategies discussed above, find credible reviews on your chosen film.
+
 
 ### ABC's of Evaluating web sources
 
@@ -42,7 +42,14 @@ micah.saxton@tufts.edu
 #### Credibility
 * Does the website document its claims? Does it accurately portray its subject matter?
 
+### Strategies for finding academic sources on religion and film
+
+1. Begin your research with reference sources
+
+2. Select an appropriate database
+
+3. Combine keyword and subject term searching
+
 
 #### Putting it into practice
-* Using the strategies discussed above, find credible reviews on your chosen film.
 * Using resources from the course guide, find relevant academic discussions of religion and film relevant to your project.
